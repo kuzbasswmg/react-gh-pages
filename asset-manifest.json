@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.e9e3481b.css",
-    "main.js": "/react-gh-pages/static/js/main.e3a8c80d.js",
+    "main.js": "/react-gh-pages/static/js/main.8c09f8f0.js",
     "static/media/kuzbas.png": "/react-gh-pages/static/media/kuzbas.bfd604a96e79c2244e60.png",
     "static/media/microscope-img-PhotoRoom.png": "/react-gh-pages/static/media/microscope-img-PhotoRoom.5a5dc059c5073bd7ac43.png",
     "static/media/distil-PhotoRoom.png": "/react-gh-pages/static/media/distil-PhotoRoom.911c1c3eb98294bcd042.png",
@@ -20,10 +20,10 @@
     "static/media/plus.svg": "/react-gh-pages/static/media/plus.eecd86c6f8c0c626a558.svg",
     "static/media/info.svg": "/react-gh-pages/static/media/info.f8c5e620aff1861f7844.svg",
     "main.e9e3481b.css.map": "/react-gh-pages/static/css/main.e9e3481b.css.map",
-    "main.e3a8c80d.js.map": "/react-gh-pages/static/js/main.e3a8c80d.js.map"
+    "main.8c09f8f0.js.map": "/react-gh-pages/static/js/main.8c09f8f0.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e3481b.css",
-    "static/js/main.e3a8c80d.js"
+    "static/js/main.8c09f8f0.js"
   ]
 }
