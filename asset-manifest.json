@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.e9e3481b.css",
-    "main.js": "/react-gh-pages/static/js/main.e3e8a196.js",
+    "main.js": "/react-gh-pages/static/js/main.e3a8c80d.js",
+    "static/media/kuzbas.png": "/react-gh-pages/static/media/kuzbas.bfd604a96e79c2244e60.png",
+    "static/media/microscope-img-PhotoRoom.png": "/react-gh-pages/static/media/microscope-img-PhotoRoom.5a5dc059c5073bd7ac43.png",
+    "static/media/distil-PhotoRoom.png": "/react-gh-pages/static/media/distil-PhotoRoom.911c1c3eb98294bcd042.png",
+    "static/media/shaker-PhotoRoom.png": "/react-gh-pages/static/media/shaker-PhotoRoom.af13659731f1f2a7c8ab.png",
+    "static/media/aspirator-PhotoRoom.png": "/react-gh-pages/static/media/aspirator-PhotoRoom.adcc2ee37435f247d50b.png",
+    "static/media/boiler-PhotoRoom.png": "/react-gh-pages/static/media/boiler-PhotoRoom.9a15f42c50d9d0783cf7.png",
+    "static/media/microscope-img.png": "/react-gh-pages/static/media/microscope-img.01ef89f62835fc78523e.png",
+    "static/media/distil.png": "/react-gh-pages/static/media/distil.24a71ea3c9b1c4e09d6c.png",
+    "static/media/boiler.png": "/react-gh-pages/static/media/boiler.887cdc4ce784a9b3cee5.png",
+    "static/media/shaker.png": "/react-gh-pages/static/media/shaker.1a3220d251fa07786ca7.png",
+    "static/media/aspirator.png": "/react-gh-pages/static/media/aspirator.ab2e3712888df29ee862.png",
+    "static/media/microscope.svg": "/react-gh-pages/static/media/microscope.78e52a2bd7772137f575.svg",
+    "static/media/cart-icon.svg": "/react-gh-pages/static/media/cart-icon.6ce036c7ac35f3eca2dd.svg",
     "index.html": "/react-gh-pages/index.html",
+    "static/media/user.svg": "/react-gh-pages/static/media/user.939b9e07fdbc1e4d5d2d.svg",
+    "static/media/plus.svg": "/react-gh-pages/static/media/plus.eecd86c6f8c0c626a558.svg",
+    "static/media/info.svg": "/react-gh-pages/static/media/info.f8c5e620aff1861f7844.svg",
     "main.e9e3481b.css.map": "/react-gh-pages/static/css/main.e9e3481b.css.map",
-    "main.e3e8a196.js.map": "/react-gh-pages/static/js/main.e3e8a196.js.map"
+    "main.e3a8c80d.js.map": "/react-gh-pages/static/js/main.e3a8c80d.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e3481b.css",
-    "static/js/main.e3e8a196.js"
+    "static/js/main.e3a8c80d.js"
   ]
 }
